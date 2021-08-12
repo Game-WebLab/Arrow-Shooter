@@ -24,7 +24,7 @@ Use it as you want
   
 ## Screenshots
 
-<img src="Arrow Shooter/ok.png">
+<img src="Arrow shooter/ok.png">
 
 ## For Support
 For support, send an email to oguzhancart1@gmail.com or you are invited to our telegram channel https://t.me/vsform_tr  
